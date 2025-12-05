@@ -1,6 +1,6 @@
 - # 👋 Hi, I’m @love-chemistry
-- # 👀 I’m interested in chemistry(of course!),python,reading as well as sleeping🐶
-- # 🌱 I’m currently learning Python📖
+- # 👀 I’m interested in chemistry, CTF and OpenHarmony development!
+- # 🌱 I’m currently learning Computer Organization and Design 😢
 - # 📫 My email address is pinowcao@outlook.com
 
 <!---
